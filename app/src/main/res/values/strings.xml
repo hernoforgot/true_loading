@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">true_loading</string>
+    <string name="请输入密码">请输入密码</string>
+    <string name="登陆">登陆</string>
+    <string name="请输入用户名">请输入用户名</string>
+    <string name="注册">注册</string>
+    <string name="TODO">TODO</string>
+    <string name="请输入手机号">请输入手机号</string>
+    <string name="请输入性别">请输入性别</string>
+
+</resources>
